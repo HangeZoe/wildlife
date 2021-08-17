@@ -24,7 +24,7 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #02160B;
-  background: url(../assets/img/hero.jpg) no-repeat center;
+  background: url(../img/hero.jpg) no-repeat center;
   background-size: cover;
 }
 
@@ -164,19 +164,19 @@ header {
 .latest-articles__card-deer { /* Вот так и появляется говнокод */
   width: 300px;
   height: 360px;
-  background: url(../assets/img/deer.jpg);
+  background: url(../img/deer.jpg);
 }
 
 .latest-articles__card-squirrel {
   width: 300px;
   height: 360px;
-  background: url(../assets/img/squirrel.jpg);
+  background: url(../img/squirrel.jpg);
 }
 
 .latest-articles__card-bird {
   width: 300px;
   height: 360px;
-  background: url(../assets/img/bird.jpg);
+  background: url(../img/bird.jpg);
 }
 
 .latest-articles__card-articles__title {
@@ -237,7 +237,7 @@ header {
 }
 
 .footer {
-  background: url(../asstets/img/footer.jpg)
+  background: url(../img/footer.jpg)
 }
 
 .footer__wrapper {
